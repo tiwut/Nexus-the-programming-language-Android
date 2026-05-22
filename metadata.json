@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Interpreter",
+  "description": "An executor for the Nexus Ultra V4 engine in Kotlin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
